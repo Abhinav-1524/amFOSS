@@ -1,0 +1,3 @@
+the following two expressions evaluate to:
+		'spam'+'spamspam' will give an output as 'spamspamspam'.
+		'spam'* 3 wii give an output as 'spamspamspam'.

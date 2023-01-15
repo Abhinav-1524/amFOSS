@@ -1,0 +1,25 @@
+spam = 0
+if spam == 10:
+    print('eggs') 
+    if spam > 5:
+        print('bacon')
+    else:
+        print('ham')
+    print('spam')
+print('spam')
+
+
+block 1 contains :  print('eggs') 
+    				if spam > 5:
+        				print('bacon')
+   					else:
+        				print('ham')
+   					print('spam')
+   					
+   					
+block 2 contains:  print('bacon')
+
+block 3 contains: print('ham')
+				
+   					
+   					

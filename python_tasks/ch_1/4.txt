@@ -1,0 +1,3 @@
+An expression is made up of a finite set of operators and operands.
+all expressions evaluate down to a single value.
+

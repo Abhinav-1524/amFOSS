@@ -1,0 +1,3 @@
+The difference between the equal to '==' operator and assignment '=' operator is :
+	1.'==' equal to perator requires two arguments like l.h.s and r.h.s it generally checks if the l.h.s is equal to r.h.s .
+	2.'=' assignment operator assigns a value to a variable.

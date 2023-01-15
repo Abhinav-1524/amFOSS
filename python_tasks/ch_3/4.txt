@@ -1,0 +1,2 @@
+Function - defining a function.
+Function call - the code inside the function is executed when a function is called.

@@ -1,0 +1,18 @@
+T=true , F=false
+
+1.and
+		T and T = true
+		T and F = false
+		F and F = false
+		F and T = true
+		
+		
+2.or
+		T or F = true
+		T or T = true
+		F or T = true
+		F or F = false
+		
+3.not
+		not(True)=False
+		not(False)=True

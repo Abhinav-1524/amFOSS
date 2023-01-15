@@ -1,0 +1,1 @@
+We can prevent a program from crashing when it gets an error by using try and except clause.

@@ -1,0 +1,1 @@
+ If a function does not have a return statement then the return value of a call to that function none.python automatically adds return none to functions which doesn't end with return statements.

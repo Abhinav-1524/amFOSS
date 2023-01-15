@@ -1,0 +1,1 @@
+The error goes into the try block and the except block is called in which we handle the error.

@@ -1,0 +1,4 @@
+The three functions to be used to get intger , floating number, string are:
+		1.int() - gives integer
+		2.str() - gives a string
+		3.float() - gives a floating number

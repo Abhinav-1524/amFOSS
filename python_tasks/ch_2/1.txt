@@ -1,0 +1,2 @@
+The two values of the boolean data type are 'True' and 'false'.
+We write them as 'true and 'false'.

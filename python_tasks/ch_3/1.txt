@@ -1,0 +1,1 @@
+functions are advantageous to have in programs because we can define our own functions and give required arguments.makes the code much simpler.

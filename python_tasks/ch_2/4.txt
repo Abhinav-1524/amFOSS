@@ -1,0 +1,17 @@
+1.(5 > 4) and (3 == 5)
+output:False
+
+2.not (5 > 4) 
+output:False
+
+3.(5 > 4) or (3 == 5)
+output:True
+
+4.not ((5 > 4) or (3 == 5))
+output:False
+
+5.(True and True) and (True == False)
+output:False
+
+6.(not False) or (not True)
+output:True

@@ -1,0 +1,7 @@
+The six comparision operators are:
+		1.> - greater than
+		2.< - less than
+		3.== - equal to
+		4.>= - greater than or equal to
+		5.<= - less than or equal to
+		6.!= - not equal to

@@ -1,0 +1,4 @@
+Three data types are:
+			1.string
+			2.integer
+			3.float etc.

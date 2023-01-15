@@ -1,0 +1,4 @@
+The following expression causes an error.
+		'I have eaten ' + 99 + ' burritos.'
+because,here we can't concatenate an integer to string .here, 99 is a integer this can be corrected by typecasting 99 to string i.e. str(99).
+		'I have eaten ' + str(99) + ' burritos.'

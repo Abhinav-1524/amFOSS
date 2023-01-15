@@ -1,0 +1,2 @@
+Break - it stops the loop .
+Continue - it jumps back to start of the loop and re-evaluates the loop.

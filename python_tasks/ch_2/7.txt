@@ -1,0 +1,2 @@
+A condition is a expression which evaluates to true or false.
+we would use it in loops  and if,else in python

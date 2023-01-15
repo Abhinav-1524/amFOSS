@@ -1,0 +1,1 @@
+After the function call returns the variables in the function will be destroyed.

@@ -1,0 +1,5 @@
+range(10) - the loop iterates from 0 to 9 i.e the loop runs 10 times.
+range(0,10) - the loop iterates from 0 to 9 i.e the loop runs 10 times,here 0 is the starting number and 10 is the last number .
+range(0,10,1) - the loop iterates from 0 to 9 with an increment of 1 as mentioned.i.e the loop runs 10 times
+
+all three works the same in for loop.

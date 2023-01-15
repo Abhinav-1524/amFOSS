@@ -1,0 +1,2 @@
+spam is a variable.
+'spam' is a string.

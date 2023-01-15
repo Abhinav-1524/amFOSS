@@ -1,0 +1,1 @@
+eggs is a valid variable name because variables can be any words but not numbers so '100' is not a variable but 'eggs' does.

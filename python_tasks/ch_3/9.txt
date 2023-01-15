@@ -1,0 +1,1 @@
+we can force a variable in a function to refer to a global variable by giving global infront of the variable  for example : global name;
